@@ -1,1 +1,2 @@
-## Execute 'python -m pip install -r requirements.exe'
+- python -m pip install -r requirements.exe
+- streamlit run app.py
